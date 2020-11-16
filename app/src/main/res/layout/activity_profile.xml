@@ -47,7 +47,6 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:padding="10dp"
-                    android:text="probelalkhan"
                     android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
 
             </TableRow>
@@ -66,7 +65,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:padding="10dp"
-                    android:text="probelalkhan@gmail.com"
+                    android:text="xxxxxxxxx@gmail.com"
                     android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
 
             </TableRow>
